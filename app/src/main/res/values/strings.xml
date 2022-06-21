@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hw1</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="trivia">Trivia</string>
+    <string name="log_in"><![CDATA[<- LOG IN]]></string>
+    <string name="up_with_email">Up with Email</string>
+</resources>
